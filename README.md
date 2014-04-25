@@ -1,4 +1,4 @@
-Assignment1
+Project 1
 ===========
 For each of the formats (XML and Byte Representation) there are two programs say a server and a client. The server is given the input file in the form of rows as specified earlier. It converts the input to the appropriate intermediate representation and sends it as a byte stream to the client. The client then converts back the intermediate representation to the original format and outputs it. So, 4 programs in total.
 
